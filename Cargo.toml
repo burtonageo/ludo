@@ -2,6 +2,12 @@
 name = "ludo"
 version = "0.0.0"
 authors = ["George Burton <burtonageo@gmail.com>"]
+repository = "https://github.com/burtonageo/ludo"
+readme = "Readme.md"
+description = "Placeholder"
+keywords = []
+categories = []
+license = "MIT"
 edition = "2018"
 
 [dependencies]
